@@ -21,9 +21,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprite Editor", "Sprite Edi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animation Editor", "Animation Editor\Animation Editor.csproj", "{E74A5D06-1D00-4948-A2E5-E50869020608}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "시연영상", "시연영상", "{7A383DC5-0920-4EE7-A93C-360614898671}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "시연영상", "시연영상", "{63EB1091-5E7B-456C-B1D6-BB1BB0628C2E}"
 	ProjectSection(SolutionItems) = preProject
-		F:\Study\취업활동\버블보블 영상1.mp4 = F:\Study\취업활동\버블보블 영상1.mp4
+		버블보블 영상1.mp4 = 버블보블 영상1.mp4
 	EndProjectSection
 EndProject
 Global
