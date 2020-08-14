@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{02c569cb-566f-4d98-9107-88c91d2f590d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Bubble">
+      <UniqueIdentifier>{1061fb8f-51b1-499a-81e5-640caf1fb787}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Character">
+      <UniqueIdentifier>{1702a397-4483-485f-b2d8-1777993baf08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Client">
+      <UniqueIdentifier>{de80af40-1e5b-4267-a591-a53943f8dea1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Enemy">
+      <UniqueIdentifier>{233c8975-3e7a-409c-abe0-81aad47941ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Life">
+      <UniqueIdentifier>{4b35c52a-f7d3-4f59-bcfd-5fdd8b059d50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Map">
+      <UniqueIdentifier>{0a09c260-b71b-46e4-a71f-8784a0f782ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Room">
+      <UniqueIdentifier>{4c308b64-0aef-4909-b413-0ec1430ea136}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\App">
+      <UniqueIdentifier>{30bc6089-3af6-4ae2-9049-e8a0e46ef178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object">
+      <UniqueIdentifier>{7a2f2104-fe04-48b0-b50a-e271ee7160f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{80cbbc93-a9ea-44eb-b41c-201a97701620}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PBFramework">
+      <UniqueIdentifier>{9d172f2d-d968-45b5-aaf9-5838fcb5733c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PBFramework\Header">
+      <UniqueIdentifier>{7b5113ca-2901-4124-b273-5db441bea19b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PBFramework\Source">
+      <UniqueIdentifier>{fa73505e-e750-43cd-ba93-a5636b80d459}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bubble.cpp">
+      <Filter>Source Files\Bubble</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Source Files\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="Client.cpp">
+      <Filter>Source Files\Client</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Life.cpp">
+      <Filter>Source Files\Life</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Room.cpp">
+      <Filter>Source Files\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="App.cpp">
+      <Filter>Source Files\App</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Source Files\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PBFramework\PBAnimation.cpp">
+      <Filter>PBFramework\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PBFramework\PBApplication.cpp">
+      <Filter>PBFramework\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PBFramework\PBDeviceContext.cpp">
+      <Filter>PBFramework\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PBFramework\PBPoint.cpp">
+      <Filter>PBFramework\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PBFramework\PBRect.cpp">
+      <Filter>PBFramework\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PBFramework\PBScene.cpp">
+      <Filter>PBFramework\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PBFramework\PBSocket.cpp">
+      <Filter>PBFramework\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PBFramework\PBSound.cpp">
+      <Filter>PBFramework\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PBFramework\PBSprite.cpp">
+      <Filter>PBFramework\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PBFramework\PBThread.cpp">
+      <Filter>PBFramework\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PBFramework\PBWindow.cpp">
+      <Filter>PBFramework\Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bubble.h">
+      <Filter>Source Files\Bubble</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Source Files\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="Client.h">
+      <Filter>Source Files\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Source Files\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Life.h">
+      <Filter>Source Files\Life</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Source Files\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Room.h">
+      <Filter>Source Files\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="App.h">
+      <Filter>Source Files\App</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Source Files\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PBFramework\PBSprite.h">
+      <Filter>PBFramework\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PBFramework\PBSound.h">
+      <Filter>PBFramework\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PBFramework\PBApplication.h">
+      <Filter>PBFramework\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PBFramework\PBAnimation.h">
+      <Filter>PBFramework\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PBFramework\PBDeviceContext.h">
+      <Filter>PBFramework\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PBFramework\PBSocket.h">
+      <Filter>PBFramework\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PBFramework\PBThread.h">
+      <Filter>PBFramework\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PBFramework\PBScene.h">
+      <Filter>PBFramework\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PBFramework\PBRect.h">
+      <Filter>PBFramework\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PBFramework\PBPoint.h">
+      <Filter>PBFramework\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PBFramework\PBObject.h">
+      <Filter>PBFramework\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PBFramework\PBWindow.h">
+      <Filter>PBFramework\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PBFramework\PBLeak.h">
+      <Filter>PBFramework\Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
